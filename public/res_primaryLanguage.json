@@ -80,38 +80,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "Code Fellows Student",
+        "title": "Full-Stack Software Developer",
+        "years": "June 2023 - present",
+        "mainTech": ["Javascript"],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS 3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Node",
+          "Git",
+          "GitHub",
+          "Markdown"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "Puget Sound Naval Shipyard",
+        "title": "Mechanical Engineer",
+        "years": "Oct 2019 - June 2023",
+        "mainTech": ["Developed technical work documents with over 95% meeting the deadline while working within constraints of the subject documentations and specifications."],
+        "technologies": ["", "Duties include responsibilities and tasks mentioned below."]
+      },
+      {
+        "company": "Pearl Naval Shipyard",
+        "title": "Mechanical Engineer",
+        "years": "Sep 2014 - Oct 2019",
+        "mainTech": [""],
+        "technologies": ["Supported multiple submarines at various stages of repair to meet and accomplish work packages set by the customer.",
+      "Reviewed technical work documents prepared by other engineers and engineering technicians that supported repair of submarine components to verify that technical specifications, drawings, and documentations are followed and met."]
       }
     ]
   }
