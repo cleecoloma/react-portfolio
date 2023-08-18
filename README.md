@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Welcome to my React Portfolio
 
-Make it your own! 
+My React portfolio is deployed via Netlify --> [React Portfolio](https://coloma-react-portfolio.netlify.app)
